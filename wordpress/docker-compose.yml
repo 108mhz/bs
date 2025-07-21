@@ -2,7 +2,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: wordpress_app_2
+      APP_HOST: bs-wordpress_app_2
       APP_PORT: 80
       PROXY_AUTH_ADD: "false"
 
